@@ -1,3 +1,4 @@
+include ':features:auth'
 include ':libraries:network'
 include ':app'
 rootProject.name = "Starter App"
