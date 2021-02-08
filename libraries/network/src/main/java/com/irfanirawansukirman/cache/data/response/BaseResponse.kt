@@ -1,4 +1,4 @@
-package com.irfanirawansukirman.network.data.response
+package com.irfanirawansukirman.cache.data.response
 
 /**
  * Created by Irfan Irawan Sukirman on 2/7/21 at Bandung City

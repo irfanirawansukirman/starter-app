@@ -1,7 +1,7 @@
-package com.irfanirawansukirman.network.factory
+package com.irfanirawansukirman.cache.factory
 
 import android.app.Application
-import com.irfanirawansukirman.network.BuildConfig
+import com.irfanirawansukirman.cache.BuildConfig
 import com.readystatesoftware.chuck.ChuckInterceptor
 import com.squareup.moshi.Moshi
 import okhttp3.Interceptor

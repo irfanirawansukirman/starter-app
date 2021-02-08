@@ -1,7 +1,7 @@
-package com.irfanirawansukirman.network.di
+package com.irfanirawansukirman.cache.di
 
 import android.app.Application
-import com.irfanirawansukirman.network.factory.ApiFactory
+import com.irfanirawansukirman.cache.factory.ApiFactory
 import com.squareup.moshi.Moshi
 import dagger.Module
 import dagger.Provides

@@ -1,3 +1,4 @@
+include ':libraries:cache'
 include ':features:auth'
 include ':libraries:network'
 include ':app'
