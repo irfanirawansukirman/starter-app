@@ -1,5 +1,6 @@
+include ':core'
+include ':features:movie'
 include ':libraries:cache'
-include ':features:auth'
 include ':libraries:network'
 include ':app'
 rootProject.name = "Starter App"
