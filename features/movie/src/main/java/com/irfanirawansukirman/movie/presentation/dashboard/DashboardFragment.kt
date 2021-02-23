@@ -46,20 +46,14 @@ class DashboardFragment :
             .inject(this)
     }
 
-    override fun initComponent() {
+    override fun initComponent() {}
 
-    }
-
-    override fun initViewListener() {
-
-    }
+    override fun initViewListener() {}
 
     override fun onViewReady(savedInstanceState: Bundle?, view: View) {
         val param = HashMap<String, Any>().apply { put("api_key", "Your API Key") }
         viewModel.getMovies(param)
     }
 
-    override fun onClear() {
-
-    }
+    override fun onClear() {}
 }
