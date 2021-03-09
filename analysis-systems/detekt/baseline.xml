@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>MagicNumber:ApiFactory.kt$ApiFactory$30</ID>
+    <ID>MagicNumber:NetworkHandler.kt$1000L</ID>
+    <ID>MaxLineLength:NetworkHandler.kt$*</ID>
+    <ID>NewLineAtEndOfFile:ApiFactory.kt$com.irfanirawansukirman.network.factory.ApiFactory.kt</ID>
+    <ID>NewLineAtEndOfFile:MovieResponse.kt$com.irfanirawansukirman.network.data.response.MovieResponse.kt</ID>
+    <ID>NewLineAtEndOfFile:MovieService.kt$com.irfanirawansukirman.network.data.service.MovieService.kt</ID>
+    <ID>NewLineAtEndOfFile:MoviesResponse.kt$com.irfanirawansukirman.network.data.response.MoviesResponse.kt</ID>
+    <ID>NewLineAtEndOfFile:NetworkHandler.kt$com.irfanirawansukirman.network.util.NetworkHandler.kt</ID>
+    <ID>NewLineAtEndOfFile:NetworkModule.kt$com.irfanirawansukirman.network.di.NetworkModule.kt</ID>
+    <ID>WildcardImport:NetworkHandler.kt$import kotlinx.coroutines.flow.*</ID>
+  </CurrentIssues>
+</SmellBaseline>
